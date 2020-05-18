@@ -10,6 +10,10 @@ public class test {
 		System.out.println("차!");
 		System.out.println("영");
 		System.out.println("차!");
+		System.out.println("영");
+		System.out.println("차!");
+		System.out.println("영");
+		System.out.println("차!");
 	}
 
 }
